@@ -2,7 +2,7 @@ import modelo.Persona;
 
 import java.util.ArrayList;
 import java.util.Scanner;
-
+// feat: crear clase Persona con atributos privados, constructor y getters
 public class App {
     private static final Scanner scanner = new Scanner(System.in);
     private static final ArrayList<Persona> personas = new ArrayList<>();
