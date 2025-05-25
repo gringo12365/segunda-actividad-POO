@@ -1,4 +1,5 @@
 package modelo;
+//feat: crear clase Persona con atributos privados, constructor y getters
 
 public class Persona {
     private String nombre;
