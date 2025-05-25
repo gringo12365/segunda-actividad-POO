@@ -41,6 +41,7 @@ public class App {
             personas.add(new Persona(nombre, apellido, genero, edad));
         }
     }
+        // agregar metodo para mostrar nombre y género de personas
 
     private static void mostrarNombresYGeneros() {
         for (Persona p : personas) {
