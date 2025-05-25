@@ -49,6 +49,7 @@ public class App {
         }
     }
 
+            // Calcular promedio de edades
     private static double calcularPromedioEdad() {
         if (personas.isEmpty()) return 0;
         int sumaEdades = 0;
