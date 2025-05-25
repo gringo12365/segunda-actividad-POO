@@ -58,7 +58,7 @@ public class App {
         }
         return (double) sumaEdades / personas.size();
     }
-
+        // Contar personas por género
     private static int contarGenero(String generoBuscado) {
         int contador = 0;
         for (Persona p : personas) {
