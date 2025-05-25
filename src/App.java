@@ -3,7 +3,7 @@ import modelo.Persona;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-//feat: implementar metodo para capturar datos de 5 personas usando Scanner
+// implementar metodo para capturar datos de 5 personas usando Scanner
 
 public class App {
     private static final Scanner scanner = new Scanner(System.in);
